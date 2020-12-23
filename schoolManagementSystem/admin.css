@@ -1,0 +1,47 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: lightgray;
+
+}
+
+.col1{
+    background-color: slategray;
+    position: relative;
+    float:left;
+    width:25%;
+    height:100%;
+    margin-right:15px;
+}
+
+#logo{
+    background-color: turquoise;
+    height:180px;
+}
+
+.col2{
+    background-color: lightgray;
+    position: relative;
+    float: left;
+    width:65%;
+}
+
+.row{
+    color:whitesmoke;
+    font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top:5px;
+    padding-left:10px;
+    line-height:40px;
+
+}
+
+.row2{
+    margin-top:10px;
+    width:auto;
+    height: auto;
+}
+
+/*.input{
+    margin-bottom:5px;
+}
